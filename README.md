@@ -4,6 +4,8 @@ A simple Job-Scheduler was programmed using BASH. It utilizes CPU % as a restric
 
 The queueing system used is FIFO
 
+After setting the Job-Scheduler up, you can run it in the background using _nohup_ to make it monitor automatically without exiting
+
 # How to edit it to your application
 This code was tested in Centos 7 environment
 
